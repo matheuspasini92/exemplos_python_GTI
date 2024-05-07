@@ -15,7 +15,7 @@ q = 15
 resultado = math.sqrt(2*x)
 print (resultado)
 
-delta= math.sqrt(b**2-4*a*c)
+delta = math.sqrt(b**2-4*a*c)
 print(delta)
 
 funcao1 = math.pow(b,2*a+c)
